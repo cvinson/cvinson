@@ -1,5 +1,9 @@
 ### Hey, I'm Colin.
 
+I'm a software engineer, currently leading the Colliers USTI Visualization team. We build tools that help our brokers find the data they need to close deals. Before that, I spent time building apps for REscour, Inform, Sharecare, HowStuffWorks International, Arrayfire, among others.
+
+When I'm not working on apps at Colliers you can find me rewriting my Vim configs, playing bluegrass banjo, and spending time with my family.
+
 <!--
 **cvinson/cvinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
